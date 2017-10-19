@@ -30,12 +30,6 @@ public class JobApplicationBean {
 		this.job = job;
 	}
 
-	public String getContent() {
-		return content;
-	}
-
-	public void setContent(String content) {
-		this.content = content;
-	}
+	
 
 }
