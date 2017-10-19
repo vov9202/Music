@@ -22,14 +22,7 @@ public class JobApplicationBean {
 		this.tel = tel;
 	}
 
-	public String getJob() {
-		return job;
-	}
-
-	public void setJob(String job) {
-		this.job = job;
-	}
-
+	
 	
 
 }
